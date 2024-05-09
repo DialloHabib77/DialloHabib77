@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ##Flutter and Laravel##
-- 🌱 I’m currently learning ##Vue Js and React Native##
-- 👯 I’m looking to collaborate on ##Mobile and Backend Dev Projects##
-- 💬  Ask me about ##Technology and Personal Developements##
-- 📫 How to reach me: ##justcodeur88@gmail.com##
+- 🔭 I’m currently working on **Flutter and Laravel**
+- 🌱 I’m currently learning **Vue Js and React Native**
+- 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
+- 💬  Ask me about **Technology and Personal Developements**
+- 📫 How to reach me: **justcodeur88@gmail.com**
 -->
 
 ## 🌐 Socials:
