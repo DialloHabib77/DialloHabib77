@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Flutter and Laravel**
 - 🌱 I’m currently learning **Vue Js and React Native**
 - 👯 I’m looking to collaborate on **Mobile and Backend Dev Projects**
 - 💬  Ask me about **Technology and Personal Developements**
 - 📫 How to reach me: **justcodeur88@gmail.com**
 -->
+## About Me
+🚀 Développeur Full Stack - Freelancer passionné d'optimisation des performances. 👨‍💻 Spécialisé en développement web, mobile et logiciel.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/h) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@habibdiallo) 
